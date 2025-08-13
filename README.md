@@ -36,7 +36,6 @@ A platform for students to lend, borrow, or exchange items on campus — reducin
 ---
 
 ## 📚 Current Goals
-- Apply for research internships at **OIST** and **Max Planck Institute** in AI/ML and Computer Vision.  
 - Develop a **unique, fully software-based final year project** for broad real-world impact.  
 - Explore **Deep Learning + Reinforcement Learning** for adaptive, accessible education tools.
 
@@ -52,8 +51,8 @@ A platform for students to lend, borrow, or exchange items on campus — reducin
 
 ## 📊 GitHub Stats
 
-![Aathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Aathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AathiPrince&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AathiPrince&layout=compact&theme=radical)
 
 ---
 
